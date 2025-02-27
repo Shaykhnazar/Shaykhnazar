@@ -37,13 +37,12 @@ I'm a passionate **Software Engineer** and **Full-Stack Web Developer** with a s
 
 ## 🛠️ Projects & Contributions
 - [Startinvest.uz](https://github.com/Shaykhnazar/startinvest) - 🚀 Startinvest.uz is an online platform for developing startups and attracting investment!
+- [Vocabry.com](https://github.com/Shaykhnazar/vocab-reminder) - Smart spaced repetition system that helps you remember vocabulary forever through perfectly timed notifications!
 - [OLX Price Tracker Service](https://github.com/Shaykhnazar/olx-price-monitor) - This service enables users to stay informed about their desired listings on OLX without the need for manual checks, enhancing user convenience and engagement.
 
 ## 📫 How to Reach Me
 - **Email:** [shaykhnazar@gmail.com](mailto:shaykhnazar@gmail.com)
 - **LinkedIn:** [Shaykhnazar](https://www.linkedin.com/in/Shaykhnazar/)
-- **Portfolio:** [cake.me](https://www.cake.me/me/shaykhnazar/portfolios)
-
 ---
 
 🔧 Built with ❤️ using the technologies listed above.
