@@ -37,8 +37,7 @@ I'm a passionate **Software Engineer** and **Full-Stack Web Developer** with a s
 ![OpenServer](https://img.shields.io/badge/OpenServerPanel-FF6600?style=for-the-badge&logo=openserverpanel&logoColor=white)
 
 ## 🛠️ Projects & Contributions
-- [Startinvest.uz](https://github.com/Shaykhnazar/startinvest) - 🚀 Startinvest.uz is an online platform for developing startups and attracting investment!
-- [Vocabry.com](https://github.com/Shaykhnazar/vocab-reminder) - Smart spaced repetition system that helps you remember vocabulary forever through perfectly timed notifications!
+- [Hikvision-isapi](https://github.com/Shaykhnazar/hikvision-isapi) - 🚀 Laravel package for integrating with Hikvision ISAPI Face Recognition Terminals!
 
 ## 📫 How to Reach Me
 - **Email:** [shaykhnazar@gmail.com](mailto:shaykhnazar@gmail.com)
